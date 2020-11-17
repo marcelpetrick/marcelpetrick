@@ -1,4 +1,5 @@
-### Hi there 👋
+##  Good morning! 👋
+🌱 I am currently interested in embedded devices (MCU, ESP32/8266), (micro)Python and DeepLearning. 
 
 <!--
 **marcelpetrick/marcelpetrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
