@@ -1,5 +1,7 @@
 ##  Good morning! 👋
-🌱 I am currently interested in embedded devices (MCU, ESP32/8266), (micro)Python and DeepLearning. 
+🌱 I am currently interested in embedded devices (ESP32/8266, micro:bit), (micro)Python and DeepLearning.  
+I have a background as software engineer (mostly C++ and Qt) backed by a degree in computerscience.  
+Learning out of curiosity and habit. Standing on the shoulders of giants.  
 
 <!--
 **marcelpetrick/marcelpetrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
