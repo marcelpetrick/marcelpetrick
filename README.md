@@ -4,7 +4,9 @@ I have a background as software engineer (mostly C++, Qt and Python) backed by a
 Learning out of curiosity and habit. Standing on the shoulders of giants.  
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=marcelpetrick&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpetrick&theme=dracula&show_icons=true" />
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph/?username=marcelpetrick&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=marcelpetrick&show_icons=true&theme=dracula&include_all_commits=true" alt="Marcel's GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcelpetrick&layout=compact&theme=dracula" alt="Marcel's most-used languages" />
+</p>
+<p align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/marcelpetrick/marcelpetrick/output/activity-graph.svg" alt="Marcel's GitHub contributions during the last 30 days" />
 </p>
